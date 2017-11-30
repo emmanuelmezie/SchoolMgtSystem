@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    School Mgt System
                 </div>
 
                 <div class="links">
